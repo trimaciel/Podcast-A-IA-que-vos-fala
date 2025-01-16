@@ -8,7 +8,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Dall- e][(https://openai.com/index/dall-e-3/)]
+- [Dall- e](https://openai.com/index/dall-e-3/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 
 
