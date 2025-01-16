@@ -1,9 +1,7 @@
 # Podcast-A-IA-que-vos-fala
 Criação de um episódio de podcast com IA para cumprir o desafio Code The Future Caixa
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+ > ℹ️ **NOTE:** Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
 ## 💻 Tecnologias utilizadas no projeto
 
