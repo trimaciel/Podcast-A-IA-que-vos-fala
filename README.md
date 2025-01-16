@@ -56,3 +56,8 @@ Dall-e:
 
 |   Ação   | prompt |
 | Criação da imagem | Crie uma capa de eBook inspiradora com o tema de ascensão na carreira. O fundo exibe um gradiente que vai do azul escuro ao teal brilhante, representando tecnologia e progresso. No centro, uma trilha digital ou uma escada feita de luzes ou circuitos que sobe em direção ao topo, simbolizando crescimento e transformação. O título 'Do Zero à Tecnologia: Transforme Sua Carreira' aparece em destaque, com uma tipografia moderna e futurista. O design transmite motivação, inovação e um senso de conquista.
+
+**Atenciosamente,**  
+🍀 **Tri Maciel**  
+📫 (trimaciel@hotmail.com / trimaciel.souza@gmail.com)  
+✨ *Em frente!*  
